@@ -1,0 +1,83 @@
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\bin\Debug\net6.0\appsettings.json
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\bin\Debug\net6.0\MVC_LAB.staticwebassets.runtime.json
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\bin\Debug\net6.0\MVC_LAB.exe
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\bin\Debug\net6.0\MVC_LAB.deps.json
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\bin\Debug\net6.0\MVC_LAB.runtimeconfig.json
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\bin\Debug\net6.0\MVC_LAB.dll
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\bin\Debug\net6.0\ref\MVC_LAB.dll
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\bin\Debug\net6.0\MVC_LAB.pdb
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\MVC_LAB.csproj.AssemblyReference.cache
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\MVC_LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\MVC_LAB.AssemblyInfoInputs.cache
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\MVC_LAB.AssemblyInfo.cs
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\MVC_LAB.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\MVC_LAB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\MVC_LAB.RazorAssemblyInfo.cache
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\MVC_LAB.RazorAssemblyInfo.cs
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\scopedcss\bundle\MVC_LAB.styles.css
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\scopedcss\projectbundle\MVC_LAB.bundle.scp.css
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\MVC_LAB.dll
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\ref\MVC_LAB.dll
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\MVC_LAB.pdb
+C:\Users\Tomek\Documents\Repositories\MVC_LAB\MVC_LAB\obj\Debug\net6.0\MVC_LAB.genruntimeconfig.cache
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\bin\Debug\net6.0\appsettings.Development.json
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\bin\Debug\net6.0\appsettings.json
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\bin\Debug\net6.0\MVC_LAB.staticwebassets.runtime.json
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\bin\Debug\net6.0\MVC_LAB.exe
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\bin\Debug\net6.0\MVC_LAB.deps.json
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\bin\Debug\net6.0\MVC_LAB.runtimeconfig.json
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\bin\Debug\net6.0\MVC_LAB.dll
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\bin\Debug\net6.0\MVC_LAB.pdb
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\MVC_LAB.csproj.AssemblyReference.cache
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\MVC_LAB.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\MVC_LAB.AssemblyInfoInputs.cache
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\MVC_LAB.AssemblyInfo.cs
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\MVC_LAB.csproj.CoreCompileInputs.cache
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\MVC_LAB.MvcApplicationPartsAssemblyInfo.cache
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\MVC_LAB.RazorAssemblyInfo.cache
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\MVC_LAB.RazorAssemblyInfo.cs
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\staticwebassets.build.json
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\staticwebassets.development.json
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\scopedcss\bundle\MVC_LAB.styles.css
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\scopedcss\projectbundle\MVC_LAB.bundle.scp.css
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\MVC_LAB.dll
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\refint\MVC_LAB.dll
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\MVC_LAB.pdb
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\MVC_LAB.genruntimeconfig.cache
+F:\Programowanie Obiektowe\MVC_LAB-master\MVC_LAB\obj\Debug\net6.0\ref\MVC_LAB.dll
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\bin\Debug\net6.0\appsettings.Development.json
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\bin\Debug\net6.0\appsettings.json
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\bin\Debug\net6.0\MVC_LAB.staticwebassets.runtime.json
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\bin\Debug\net6.0\MVC_LAB.exe
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\bin\Debug\net6.0\MVC_LAB.deps.json
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\bin\Debug\net6.0\MVC_LAB.runtimeconfig.json
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\bin\Debug\net6.0\MVC_LAB.dll
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\bin\Debug\net6.0\MVC_LAB.pdb
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\MVC_LAB.csproj.AssemblyReference.cache
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\MVC_LAB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\MVC_LAB.AssemblyInfoInputs.cache
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\MVC_LAB.AssemblyInfo.cs
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\MVC_LAB.csproj.CoreCompileInputs.cache
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\MVC_LAB.MvcApplicationPartsAssemblyInfo.cache
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\MVC_LAB.RazorAssemblyInfo.cache
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\MVC_LAB.RazorAssemblyInfo.cs
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\staticwebassets\msbuild.MVC_LAB.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC_LAB.props
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC_LAB.props
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC_LAB.props
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\staticwebassets.build.json
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\staticwebassets.development.json
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\scopedcss\bundle\MVC_LAB.styles.css
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\scopedcss\projectbundle\MVC_LAB.bundle.scp.css
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\MVC_LAB.dll
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\refint\MVC_LAB.dll
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\MVC_LAB.pdb
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\MVC_LAB.genruntimeconfig.cache
+D:\Szkola\Studia\3 Semestr\Programowanie obiektowe\Laby\MVC_LAB-Firsto 24-11\MVC_LAB\obj\Debug\net6.0\ref\MVC_LAB.dll
